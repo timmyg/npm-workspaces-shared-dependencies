@@ -1,0 +1,1 @@
+# npm-workspaces-shared-dependencies
